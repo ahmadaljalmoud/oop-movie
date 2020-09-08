@@ -63,11 +63,11 @@ Add a universal footer that includes:
 We build part of the single movie page for you, but the information isn't
 totally complete, a few more features are needed:
 
-- The main 5 actors of the movies in the credit section
-- The movie language
-- A related movies section which includes at least five related movies
+<!-- - The main 5 actors of the movies in the credit section -->
+<!-- - The movie language -->
+<!-- - A related movies section which includes at least five related movies -->
 - A trailer section that has the movie trailer from youtube
-- The movie production company name and logo
+<!-- - The movie production company name and logo -->
 - The director name 
 - The movie rating and how many votes has it received
 
